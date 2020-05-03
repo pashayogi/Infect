@@ -89,6 +89,10 @@ $ cd infect
 $ ls
 
 ```
+$pkg install unzip
+```
+$unzip Infect.zip
+```
 
 ```
 
