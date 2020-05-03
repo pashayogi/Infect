@@ -48,7 +48,7 @@ sleep 50.0
 
 clear 
 
-cd $HOME/infect
+cd $HOME/nfect
 
 bash infect.sh
 
