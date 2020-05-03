@@ -77,8 +77,8 @@ $ git clone https://github.com/pashayogi/Infect
 $ ls
 
 
-
 ```
+
 
 $ cd infect
 
@@ -88,7 +88,7 @@ $ cd infect
 
 $ ls
 
-``
+
 
 ```
 
