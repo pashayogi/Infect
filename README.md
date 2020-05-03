@@ -90,9 +90,9 @@ $ ls
 
 ```
 
-```
-unzip -p infect.zip
-```
+
+
+
 
 ```
 
