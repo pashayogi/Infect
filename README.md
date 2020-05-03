@@ -171,7 +171,7 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/noob-hackers/Infect
+$ git clone https://github.com/pashayogi/Infect
 ```
 ```
 $ ls
