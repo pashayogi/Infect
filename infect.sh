@@ -132,6 +132,8 @@ echo " "
 
 read hulke
 
+cd $HOME/Infect/lol
+
 echo " "
 
 echo -e "$ylo     Untuk mengakhiri proses klik$red 't'$ylo atau untuk melanjutkan klik$grn ENTER$rset" 
@@ -143,6 +145,8 @@ if [ $choice = 't' ] ; then
 echo -e "$red                    Apakah kamu yakin tekan$grn ENTER$red to exit$rset"
 
 read hulkee
+
+cd $HOME/Infect
 
 bash infect.sh
 
@@ -166,6 +170,8 @@ read punch
 
 fi
 
+cd $HOME/Infect
+
 bash infect.sh ;;
 
 2)echo " "
@@ -183,6 +189,7 @@ echo -e "$grn                  Press$ylo ENTER$grn to continue$rset"
 echo " "
 
 read nitro
+cd $HOME/Infect/lol
 
 echo " "
 
@@ -195,6 +202,7 @@ if [ $choice = 't' ] ; then
 echo -e "$red                   Apakah kamu yakin tekan$grn ENTER$red to exit$rset"
 
 read nitroo
+cd $HOME/Infect/
 
 bash infect.sh
 
@@ -217,7 +225,7 @@ echo " "
 read punch
 
 fi
-
+cd $HOME/Infect
 bash infect.sh ;;
 
 3)echo " "
@@ -235,6 +243,7 @@ echo -e "$grn                 Press$ylo ENTER$grn to continue$rset"
 echo " "
 
 read mon
+cd $HOME/Infect/lol
 
 echo " "
 
@@ -247,6 +256,7 @@ if [ $choice = 't' ] ; then
 echo -e "$red                 Apakah kamu yakin tekan$grn ENTER$red atau exit$rset"
 
 read monn
+cd $HOME/Infect
 
 bash infect.sh
 
@@ -269,6 +279,7 @@ echo " "
 read punch
 
 fi
+cd $HOME/infect
 
 bash infect.sh ;;
 
