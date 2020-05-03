@@ -91,6 +91,10 @@ $ ls
 ```
 
 ```
+unzip -p infect.zip
+```
+
+```
 
 $ bash infect.sh
 
