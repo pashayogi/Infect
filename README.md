@@ -87,6 +87,7 @@ $ cd infect
 ```
 
 $ ls
+``
 
 ```
 $pkg install unzip
